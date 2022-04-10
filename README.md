@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Teklas
 - 🌱 I’m currently learning Microservices and Angular
-- 📫 How to reach me <br /> <br /> <a style="margin:5px" target="_blank" href="https://tr.linkedin.com/in/mehmet-uğur-atmaca-690324177"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkdin" width="50" height="50"></img></a>
+- 📫 How to reach me <br /> <br /> <a style="margin:5px" target="blank" href="https://tr.linkedin.com/in/mehmet-uğur-atmaca-690324177"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkdin" width="50" height="50"></img></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atmaca25&show_icons=true&theme=swift)
